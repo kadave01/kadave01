@@ -1,10 +1,10 @@
 <!-- GitHub Profile README for kadave01 -->
 
-<!--
+
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/ kadave01?v=4" width="120" alt="kadave01's avatar" style="border-radius:50%">
+  <img src="https://github.com/kadave01/kadave01/blob/main/me.jpg" width="120" alt="kadave01's avatar" style="border-radius:50%">
 </p>
--->
+
 <h1 align="center">Hi, I'm Kaushal Dave </h1>
 <p align="center">
   <em>PhD Candidate | Experimentalist in reactive flows and spray diagnostics</em>
