@@ -13,7 +13,9 @@
 
 ## 👤 About Me
 
-I am a research-engineer specializing in sustainable energy systems, with a strong background in experimental combustion and spray diagnostics. My work integrates lab-scale experiments with analytical modeling to advance development of technological solutions for the energy transition in the power and propulsion sector.
+I am a research-engineer specializing in sustainable energy systems, with a strong background in experimental combustion and spray diagnostics. My work integrates lab-scale experiments with analytical modeling to advance development of technological solutions for the energy transition in the power and propulsion sector. 
+
+I am passionate about education and committed to making science more accessible, inclusive, and transparent - especially for researchers from resource-constrained communities around the world.
 
 ## 🔬 Research Interests
 
@@ -56,7 +58,6 @@ I strongly believe in the philosophy of open-source science and actively support
 - **Languages:** Proficient in English, Hindi, Gujarati, and Marathi. Learing Dutch
 <!--
 ---
-
 ## 🌱 Current Focus
 
 - Sustainable combustor design for future aviation  
@@ -65,6 +66,33 @@ I strongly believe in the philosophy of open-source science and actively support
 
 -->
 ---
+
+## Awards
+- [Best TU Delft H<sub>2</sub> Platform paper - 2023](https://www.tudelft.nl/en/2024/tu-delft/tu-delft-presents-the-nine-best-climate-action-energy-papers)
+- [NVV Combustion Award 2021 for the best MSc thesis in the area of combustion technology](https://research.tudelft.nl/en/prizes/nvv-combustion-award-2021-for-msc-thesis-titled-feasibility-analy)
+
+---
+
+## 📚 Academic research projects
+
+#### HOPE Project | TU Delft - Sustainable Aircraft Propulsion Research Group (2022 – Present)
+
+#### APPU Project | TU Delft - Power and Propulsion Research Group (2020 – 2022)
+- A novel aircraft propulsion concept to reduce local emissions and integrate an “Energy Mix” for aviation’s global impact reduction based on a multifunctional gas turbine fueled by H<sub>2</sub> to replace traditional APUs, powering a variable pitch open rotor in a BLI configuration.
+- Contributed to the development of the experimental test-rig for a low-NOx swirl-stabilized premixed CH<sub>4</sub>-H<sub>2</sub> combustor.
+
+#### Development of a novel H<sub>2</sub> fuelled zero-emission HYCOS power cycle | TU Delft - Power and Propulsion Research Group (2019 – 2020)
+- Proposed a combustion-based zero-emission power cycle as an alternative to existing fuel-cell based distributed power generation systems.
+- Conducted preliminary thermodynamic and combustion analyses on an H<sub>2</sub>/O<sub>2</sub> fueled s-CO<sub>2</sub> cycle.
+- Concept passed feasibility and is under further development.
+
+#### Design, fabrication & testing of a multi tubes-in-tube HEX for an MRJT cryocooler | IIT–Bombay - Refrigeration & Cryogenics group & VJTI - Mechanical Department (2014 – 2015)
+- Developed a new compact HEX for application with an MRJT cryocooler 
+- Over 65%  reduction in size and weight was achieved over the previous design which led to improved thermal performance and reduced cooldown time by 50%.
+- Project spanned over all phases starting from extensive literature survey, theortical and mechancial design, prodcutions and testing, achieving 116K operational temperature during lab experiments.
+
+---
+
 ## 📚 Publications
 
 ### 🧪 Journal Articles
@@ -89,12 +117,13 @@ I strongly believe in the philosophy of open-source science and actively support
 
 ## 🤝 Connect with Me
 
-Email @ k.a.dave@tudelft.nl | kaushal.atul.dave@gmail.com or connect via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-dave-27a19896/)  
+- Email @ k.a.dave@tudelft.nl | kaushal.atul.dave@gmail.com
+- Or connect via [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-dave-27a19896/)  
 
+<!--
 ---
 
 ## 💡 Fun Fact
 
-I am passionate about education and committed to making science more accessible, inclusive, and transparent—especially for researchers from resource-constrained communities around the world.
-
 ---
+-->
