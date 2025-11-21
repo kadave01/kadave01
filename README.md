@@ -68,6 +68,7 @@ I strongly believe in the philosophy of open-source science and actively support
 ---
 
 ## Awards
+- [DSCI Best Poster Prize - 2025](https://www.linkedin.com/feed/update/urn:li:activity:7389977402568949761/)
 - [Best TU Delft H<sub>2</sub> Platform paper - 2023](https://www.tudelft.nl/en/2024/tu-delft/tu-delft-presents-the-nine-best-climate-action-energy-papers)
 - [NVV Combustion Award 2021 for the best MSc thesis in the area of combustion technology](https://research.tudelft.nl/en/prizes/nvv-combustion-award-2021-for-msc-thesis-titled-feasibility-analy)
 
@@ -102,7 +103,7 @@ I strongly believe in the philosophy of open-source science and actively support
 - Rishikesh Sampat, Niek Goselink, **Kaushal Dave**, Ferry Schrijer, Arvind Gangoli Rao. *Stabilization and Emissions Characteristics of CH<sub>4</sub>-H<sub>2</sub> Blends in a Premixed Jet Stabilized Combustor*. *Fuel*, 2025.
 - Sarah Link, Gioele Ferrante, **Kaushal Dave**, Giulia Monti, Georg Eitelberg, Francesca De Domenico. *Experimental and Numerical Investigation of Mixing in a Partially Premixed CH<sub>4</sub>/H<sub>2</sub> Combustor*. *International Journal of Hydrogen Energy*, 2025.
 
-### 🎤 Conference Presentations
+### 🎤 Conferences
 - **Kaushal Dave**, Arvind Gangoli Rao. *A Novel Zero-Emission Power Cycle for Energy Storage and Utilization*. Combura, Soesterberg, Netherlands. November 2021
 - **Kaushal Dave**, Simon Vermeijlen, Rishikesh Sampat, Arvind Gangoli Rao. *Flow Field Analysis of a Swirl Stabilized Premixed Hydrogen Combustor with Axial Air Injection at Non-Reacting Conditions.* “Towards Sustainable Aviation” Summit, Toulouse, France. October 2022 & Combura, Soesterberg, Netherlands. November 2022.
 - Sarah Link, **Kaushal Dave**, Arvind Gangoli Rao, Georg Eitelberg. *Towards 'Energy Mix' in Aviation, an Experimental Approach*. “Towards Sustainable Aviation” Summit, Toulouse, France. October 2022.
@@ -110,6 +111,7 @@ I strongly believe in the philosophy of open-source science and actively support
 - **Kaushal Dave**, Francesca De Domenico, Fulvio Scarano, Arvind Gangoli Rao. *Investigation of Size-Informed Droplet Transport using Mie-Scattered Imaging and Interferometric Particle Imaging.*. Combura, Eindhoven, Netherlands. October 2023.
 - Lorenzo Palanti, Lorenzo Mazzei, Cosimo Bianchini, Sarah Link, **Kaushal Dave**, Francesca De Domenico, Arvind Gangoli Rao. *CFD-Based Scouting for the Design of a Multi-Fuel Kerosene/Hydrogen Atmospheric Burner.* 34th Congress of the International Council of the Aeronautical Sciences (ICAS), Florence, Italy. September 2024
 - Kaushal Dave, Sarah Link, Francesca De Domenico, Ferry Schrijer, Fulvio Scarano, Arvind Gangoli Rao. *Kerosene-H<sub>2</sub> Blending Effects in a Multi-Fuel Combustor.* 12th European Combustion Meeting, Edinburgh, Scotland. April 2025
+- **Kaushal Dave**,  Alam Garcidueñas-Correa, Arvind Gangoli Rao, Francesca De Domenico. *Emission characterization of fuel-flexible kerosene-H<sub>2</sub> combustor*. Combura, Eindhoven, Netherlands. October 2025.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-black?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=rkrOsPMAAAAJ)
 
