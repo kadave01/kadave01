@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi, I'm Kaushal Dave</h1>
 <p align="center">
-  <em>Combustion Engineer | Researcher at TU Delft | Hydrogen &amp; fuel-flexible combustion, spray diagnostics</em>
+  <em>Combustion Engineer | Guest Researcher at TU Delft | Hydrogen &amp; fuel-flexible combustion, spray diagnostics</em>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 I am a combustion engineer specializing in fuel-flexible and multiphase combustion, from injector design to test-rig results. At TU Delft since 2020, I co-developed a flashback-resistant CH<sub>4</sub>-H<sub>2</sub> dual-fuel combustor in the APPU project, and for my PhD in the Horizon Europe project HOPE I designed, built and tested a multi-fuel kerosene-H<sub>2</sub> combustor and its injector, now a granted Dutch patent. Before research, I spent three years in industry on utility-scale power plant performance and feasibility studies.
 
-I am currently looking for industry roles in combustion and energy-system development, particularly hydrogen, low-carbon fuels and clean industrial heat.
+I am currently looking for roles in combustion and energy-system development, particularly hydrogen, low-carbon fuels and clean industrial heat.
 
 I am passionate about education and committed to making science more accessible, inclusive and transparent, especially for researchers from resource-constrained communities around the world.
 
@@ -38,7 +38,10 @@ I strongly believe in open-source science and use and promote open-source tools 
 
 ## 💼 Experience
 
-- **TU Delft**, *Netherlands* – PhD Candidate (Oct 2022 – Present)  
+- **TU Delft**, *Netherlands* – Guest Researcher (Oct 2026 – Present)  
+  Draft PhD thesis submitted to the doctoral committee; finalizing publications from the HOPE project.
+
+- **TU Delft**, *Netherlands* – PhD Candidate (Oct 2022 – Sep 2026)  
   Designed, built and commissioned a multi-fuel combustor test rig and a novel kerosene-H<sub>2</sub> injector (granted patent) in the Horizon Europe HOPE project. Ran test campaigns showing stable operation across the full fuel range up to 100% H<sub>2</sub>, with emission and flame characterization. Developed open-source Mie/IPI spray diagnostics and CRN models of emission pathways. Supervised MSc students.
 
 - **TU Delft**, *Netherlands* – Researcher (Dec 2020 – Sep 2022)  
